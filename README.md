@@ -13,4 +13,5 @@ Parts required
   6. Robot Frame to serve as exterior
   
  See Schematic Below
- 
+ <img width="1087" alt="screen shot 2018-09-07 at 8 12 14 pm" src="https://user-images.githubusercontent.com/13387177/45249762-c440dd00-b2da-11e8-974c-ec1ec2e3f1a8.png">
+
